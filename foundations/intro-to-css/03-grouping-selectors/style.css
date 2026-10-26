@@ -1,1 +1,12 @@
-/* Add CSS Styling */
+.Noone {
+    background-color: hsl(0, 0%, 0%);
+    color: white;
+}
+.Yellow {
+    background-color: hsl(60, 100%, 50%);
+}
+.Noone,
+.Yellow {
+    font-size: 28px;
+    font-family: Helvetica, "Times New Roman", sans-serif;
+}
